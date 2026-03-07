@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Working as a Software Engineer at TCS DNB Account<br>🌱 Currently focusing on Web Development and DSA<br>💬 Ask me about DSA, JavaScript, React, MERN, SpringBoot
+🔭 I’m currently Working as a Software Engineer at TCS DNB Account<br>🌱 Currently focusing on Web Development and DSA<br>💬 Ask me about DSA, JavaScript, React, Github Actions, MERN, SpringBoot
 
 
 ## 🌐 Socials:
